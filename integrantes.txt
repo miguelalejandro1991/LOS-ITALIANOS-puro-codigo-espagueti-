@@ -1,0 +1,20 @@
+Nombre del Equipo: LOS ITALIANOS - puro codigo espagueti
+
+Nombre: Miguel
+Numero: 1
+gitHub: miguelalejandro1991
+Gustos y colores: Me gusta salir a comer fuera de la casa y a tomar par bielas
+
+Nombre: Luis Llumiquinga
+Numero: 2
+gitHub: LuisLlumiquinga
+Gustos y Colores: Me gusta mucho el deporte aunque la mayoria de las veces es un poco complicado
+hacer espacio entre tantas obligaciones, veo muy pocas series y la mayor parte del tiempo las
+veo en ingles para poder mejorar mi conocimiento y cuando no en español para poder descansar. He
+comenzado a leer un poco pero vamos mejorando poco a poco esperando adquirir mayor conocimiento
+y vocabulario.
+
+Nombre: Christian
+Numero: 3
+gitHub: ChrisJRM92
+Gustos y colores: Me gusta viajar y conocer nuevos lugares
